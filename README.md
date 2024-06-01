@@ -1,1 +1,1 @@
-# COVID-19-SQL
+# Exploring covid_19 data in SQL
